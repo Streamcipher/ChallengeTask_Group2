@@ -1,0 +1,9 @@
+.gitignore
+pom.xml
+.idea
+group02.iml
+.project
+.classpath
+.settings
+/target
+/bin
